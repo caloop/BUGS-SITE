@@ -2,7 +2,7 @@
   "useSmtp": false,
   "host": "stmp.gmail.com",
   "port": 465,
-  "username": "demo@gmail.com",
+  "username": "rianjunckes@gmail.com",
   "password": "demopassword",
   "recipientEmail": "rianjunckes@gmail.com"
 }
