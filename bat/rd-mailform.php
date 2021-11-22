@@ -109,10 +109,10 @@ try {
         $mail->SMTPSecure = "ssl";
 
         // Username to use for SMTP authentication
-        $mail->Username = $formConfig['username'];
+        $mail->Username = $formConfig['rianjunckes@gmail.com'];
 
         // Password to use for SMTP authentication
-        $mail->Password = $formConfig['password'];
+        $mail->Password = $formConfig['demopassword'];
     }
 
     $mail->From = $_POST['email'];
